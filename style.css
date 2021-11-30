@@ -1,0 +1,44 @@
+#login-area,
+#transection-area {
+  padding: 100px;
+}
+
+.submit-area {
+  box-shadow: 0 2px 20px gray;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.submit-area input {
+  font-size: 17px;
+}
+
+#transection-area {
+  display: none;
+}
+
+.deposit {
+  background-color: slateblue;
+}
+.withdraw {
+  background-color: lightsalmon;
+}
+.balance {
+  background-color: orange;
+}
+
+.deposit,
+.withdraw,
+.balance {
+  border-radius: 10px;
+  color: white;
+}
+
+.transection-indivitual h2 {
+  font-size: 50px;
+}
+
+.transection-form {
+  border-radius: 10px;
+  box-shadow: 0 2px 20px gray;
+}
